@@ -1,3 +1,5 @@
+
+****** Note - May some pacakages or Configuration are get depricated at a time of you run the code. Please correct it.  *******
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
